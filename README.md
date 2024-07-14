@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Python: A Linguagem de Programação Molezinha dos Paraenses ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um pequeno texto que resume a linguagem de progrmação python usando palavras comumente usadas por paraenses
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e Gemini AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei que a IA gerasse um texto sobre python em até 300 caracteres e utilizasse palavras do dia a dia dos paraenses, porém fiquei na dúvida do quanto interferir na criação dela, mas gostei do resultado
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+"Python é uma linguagem de programação molezinha de aprender, mano! É como se fosse um carimbó dos códigos, fácil e poderoso. Dá pra fazer de tudo, desde programinhas simples até projetos muito doidos. Ideal pra quem quer começar na programação sem ficar agoniado."
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Achei a ideia bem interessante e os coursos anteriores do Bootcamp´me ajudaram a gerar uma resposta bem melhor na IA.
 ```
 
 ### Exemplos e Insigths
